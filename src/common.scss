@@ -1,0 +1,33 @@
+.component-item {
+    position: relative;
+    border: 1px dashed #ddd;
+
+    &.active {
+        border: 1px solid #1890ff;
+    }
+}
+
+.img {
+    width: 100%;
+    height: auto;
+}
+
+.mb-10 {
+    margin-bottom: 10px;
+}
+
+.mt-10 {
+    margin-top: 10px;
+}
+
+.mt-20 {
+    margin-top: 20px;
+}
+
+.mt-30 {
+    margin-top: 30px;
+}
+
+.mt-40 {
+    margin-top: 40px;
+}
